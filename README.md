@@ -1,5 +1,11 @@
 # DoubleTroubleSpace
-Checkpoint 6 game with proton
+Minigame cooperativo 3D com Unity 6 e Photon Fusion 2.
+
+Dois jogadores controlam naves contra três ondas de alienígenas, com movimento, disparos, inimigos, pontos e HP individual sincronizados. Quem morre revive na próxima fase se o parceiro conseguir completá-la; os dois começam a nova fase com HP cheio.
+
+**Como jogar e gravar a entrega:** [COMO_JOGAR.md](COMO_JOGAR.md).
+
+**Projeto Unity:** pasta `DoubleTroubleSpace`. **Cena:** `Assets/Scenes/Game.unity`. **Executável local:** `DoubleTroubleSpace/Build/DoubleTroubleSpace.exe`.
 
 
 Enunciado:
